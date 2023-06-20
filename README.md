@@ -2,7 +2,7 @@ PROJECT TITLE : URL Shortener
 
 DESCRIPTION
 
-Hii! Akash here, and I Welcome you to the MERN Stack URL Shortener project!
+Hii! Akash here, and I Welcome you to the MERN Stack based URL Shortener project!
 This project is a full-stack web application that allows users to shorten long URLs into shorter and more manageable links, and to keep the count of the number of clicks. It is built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. This README file will guide you through the setup and usage of the application.
 
 PRE-REQUISITES
