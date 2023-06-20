@@ -61,7 +61,7 @@ REFERNCES USED
 2. https://www.npmjs.com/package/shortid
 3. Tutorials by Angela Yu to learn about MERN stack development : https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
-
-![Alt text](Images)
+Here is a preview on how the website looks like :)
+<img width="959" alt="preview_urlshortener" src="https://github.com/Akashh26/url_shortener/assets/98978949/1a99110e-b888-43bb-ab5b-f9692fe956ae">
 
 
