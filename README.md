@@ -62,6 +62,7 @@ REFERNCES USED
 3. Tutorials by Angela Yu to learn about MERN stack development : https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
 PREVIEW
+
 Here is a preview on how the website looks like :)
 
 
