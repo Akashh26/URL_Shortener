@@ -10,5 +10,7 @@ PRE-REQUISITES
 Before getting started, make sure you have the following software installed on your machine:
 
 Node.js (v12 or above)
+
 npm (Node Package Manager)
+
 MongoDB
