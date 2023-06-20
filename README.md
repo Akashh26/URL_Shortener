@@ -55,7 +55,7 @@ LEARNING TAKEAWAYS
 4. async and await function in javascript.
 5. Got to know about static deployment and dynamic deployment.
 
-REFERNCES USED
+REFERENCES USED
 
 1. https://www.geeksforgeeks.org/async-await-function-in-javascript/
 2. https://www.npmjs.com/package/shortid
