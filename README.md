@@ -60,6 +60,7 @@ REFERENCES USED
 1. https://www.geeksforgeeks.org/async-await-function-in-javascript/
 2. https://www.npmjs.com/package/shortid
 3. Tutorials by Angela Yu to learn about MERN stack development : https://www.udemy.com/course/the-complete-web-development-bootcamp/
+4. Video tutorial used as a reference : https://www.youtube.com/watch?v=SLpUKAGnm-g
 
 PREVIEW
 
